@@ -1,0 +1,154 @@
+body {
+	width: 1240px;
+	height: 1400px;
+	margin: 0 auto;
+	background-color: #C0C0C0;
+}
+ul {
+	padding: 0;
+	list-style-type: none;
+	font-size: 20px;
+}
+ol {
+	padding-left: 20px;
+	font-size: 20px;
+}
+#main {
+	width: 1240px;
+	height: 100%;
+	display: flex;
+	background: #FFFFFF;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+#sidebar {
+	width: 339px;
+	height: 1320px;
+	background-color: #1e2939;
+	margin: 40px;
+	margin-right: 0;
+	border-radius: 1rem;
+}
+#img {
+	margin: 3px;
+	margin-top: 40px;
+	margin-bottom: 0;
+}
+#info {
+	display: flex;
+	flex-direction: column;
+	color: #FFFFFF;
+}
+.info-block {
+	margin-left: 40px;
+	margin-top: 50px;
+}
+.info-block div {
+	margin-top: 8px;
+}
+.info-title {
+	font-size: 26px;
+	font-weight: bold;
+}
+.info-text {
+	margin: 0;
+}
+.first-leter {
+	font-weight: bold;
+}
+#main-block {
+	width: 100%;
+	height: 1320px;
+	margin: 40px;
+	margin-left: 0;
+	display: flex;
+	flex-direction: column;
+	color: #1e2939;
+}
+#conteiner {
+	margin: 50px;
+	margin-top: 102px;
+}
+#conteiner div {
+	margin-bottom: 40px;
+}
+#conteiner ul {
+	list-style-type: disc;
+	padding-left: 20px;
+	margin: 10px;
+}
+#position-name {
+	display: flex;
+	flex-direction: column;
+}
+#position {
+	font-size: 20px;
+	font-weight: bold;
+}
+#name {
+	font-size: 32px;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#resume {
+	margin: 0;
+	font-weight: bold;
+	font-size: 18px;
+}
+#Work-Experience {
+	display: flex;
+	flex-direction: column;
+}
+#Work-Experience div {
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+.Recount {
+	font-weight: bold;
+	font-size: 22px;
+	margin-bottom: 10px;
+}
+.work {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+.frnt {
+	font-size: 22px;
+	font-weight: bold;
+}
+.rabota {
+	font-size: 22px;
+	font-weight: bold;
+	color: #f36a38;
+}
+.date {
+	color: #A8A8A8;
+	font-size: 16px;
+	font-style: italic;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+div#Work-Experience {
+	margin-bottom: 0;
+}
+#Education {
+	display: flex;
+	flex-direction: column;
+}
+#Education span {
+	margin-bottom: 12px;
+}
+#univer {
+	color: #f36a38;
+	font-size: 18px;
+	font-weight: bold;
+}
+#spec {
+	font-size: 16px;
+	font-weight: bold;
+}
+#grad {
+	font-size: 14px;
+	font-style: italic;
+}
